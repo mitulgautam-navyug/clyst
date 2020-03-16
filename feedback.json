@@ -1,0 +1,50 @@
+{
+    "feedback": [
+        {
+            "id": "1",
+            "question": "Rate your overall experience",
+            "option": [
+                "Not so good",
+                "Fair",
+                "Good",
+                "Excellent"
+            ]
+        },
+        {
+            "id": "2",
+            "question": "Was the game easy to understand ",
+            "option": [
+                "Yes",
+                "Somewhat",
+                "No"
+            ]
+        },
+        {
+            "id": "3",
+            "question": "Did you think the situations were relatable for you",
+            "option": [
+                "Yes",
+                "Somewhat",
+                "No"
+            ]
+        },
+        {
+            "id": "4",
+            "question": "Did you think the game was easy to navigate ",
+            "option": [
+                "Yes",
+                "Somewhat",
+                "No"
+            ]
+        },
+        {
+            "id": "5",
+            "question": "Would you refer this game to others",
+            "option": [
+                "Yes",
+                "Somewhat",
+                "No"
+            ]
+        }
+    ]
+}
